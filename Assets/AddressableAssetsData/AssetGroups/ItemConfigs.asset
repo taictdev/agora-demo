@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemConfigs
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemConfigs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ab90bd9e0731544f481799f0c2a351e1
+  m_SerializeEntries:
+  - m_GUID: 762f3779642354dd9bbfbdc47f54efd6
+    m_Address: Assets/XOGame/Configs/Items/ItemConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item_config
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a8492b5d06c6a4be28bda727569e4c27, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 88f26b2e4d2f1480794436447e0e9ff5, type: 2}
+    - {fileID: 11400000, guid: 086638530dae24097a49732698101224, type: 2}
